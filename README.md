@@ -46,7 +46,7 @@ Daftar perintah GIT
 - ganti balik ke branch main dengan command $ "git checkout main"  buat branch baru dengan mengetik $ "git branch Tugas-midProject" , lalu ketik $ "git checkout Tugas-midProject"
 - tambahkan file apa saja secara manual ke file yang sudah dibuat di repository atau tepatnya ke file repository yang telah dibuat di aplikasi git bash .git(contoh:Tugas-midProject.txt)
 - lalu edit pakai aplikasi editor (microsoft visual code)
-- ketik $ "git add Tugas-midProject.txt" untuk menambahkan file di staging area, atau sebelum commit cek lewat command $ "git status" lalu lakukan commit dengan command dengan $ "git commit -m "menambahkan file Tugas-midProject.txt"
+- ketik $ "git add Tugas-midProject.txt" untuk menambahkan file di staging area, atau sebelum commit cek lewat command $ "git status" lalu lakukan commit dengan command dengan $ "git commit -m "menambahkan file Tugas- midProject.txt"
 - sinkronisasi repo local git ke github dengan command $ "git push"
 
 6. Tugas-php (untuk daftar tugas / branch)
